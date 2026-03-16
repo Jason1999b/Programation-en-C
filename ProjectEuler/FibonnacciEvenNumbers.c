@@ -16,3 +16,5 @@ void main () {
     printf("Sum of even Fibonacci numbers: %d\n", sum);
 
 }
+
+// Sum of even Fibonacci numbers: 4613732
