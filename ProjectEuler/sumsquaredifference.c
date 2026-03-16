@@ -17,3 +17,6 @@ int main(void)
     printf("%ld\n", difference);
     return 0;
 }
+
+
+// Difference = 25164150

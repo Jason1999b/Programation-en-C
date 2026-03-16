@@ -13,3 +13,6 @@ int main(void)
     printf("%d\n", sum);
     return 0;
 }
+
+
+// Sum of multiples of 3 or 5 below 1000 = 233168
